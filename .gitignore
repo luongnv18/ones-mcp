@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+*.log
+
+# Local-only planning docs & agent workspace
+docs/
+.superpowers/
